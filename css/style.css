@@ -54,3 +54,16 @@ h2{
     background:#55a398;
     color:white;
 }
+
+/* 13 Hex simplificado */
+
+.simple-hex{
+    /* color: #333333; */
+    color: #333;
+}
+
+.simple-hex-2{
+    /* color:#aa55ff;                      */
+    color:#a5f;                     
+}
+
