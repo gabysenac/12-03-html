@@ -83,4 +83,10 @@ h2{
  
 }
 
+.bg-image{
+    background-image: url(../img/img/nature.jpg);
+    padding: 10px;
+    color: white;
+}
+
 
