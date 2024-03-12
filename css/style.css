@@ -89,4 +89,18 @@ h2{
     color: white;
 }
 
+.bg-opacity{
+    background-color: green;
+    opacity: 0.8;
+}
 
+.bg-opacity-2{
+    background-color: #999;
+    color: #000;
+    opacity: 0.8;
+}
+
+.rbga-opacity{
+    background-color: rgba(90, 12, 20, 0.2);
+    opacity: 0.1;
+}
